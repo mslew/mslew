@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Lewis</h1>
 <h3 align="center">A passionate Computer Science student from Illinois.</h3>
 
-- 🌱 I’m currently learning **Bootstrap 5 Sass, and Vue**
+- 🌱 I’m currently learning **Bootstrap 5, Sass, and Vue**
 
 - 👨‍💻 All of my projects are available at [https://www.maximuslewis.com](https://www.maximuslewis.com)
 
