@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mslew&label=Profile%20views&color=0e75b6&style=flat" alt="mslew" /> </p>
 
-- 🔭 I’m currently working on **Movie Deck**
+- 🔭 I’m currently working on **QuizMaster**
 
-- 🌱 I’m currently learning **Bootstrap 5, Sass, and Vue**
+- 🌱 I’m currently learning **React, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://www.maximuslewis.com](https://www.maximuslewis.com)
 
