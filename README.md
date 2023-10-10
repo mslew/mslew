@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Max Lewis</h1>
-<h3 align="center">A recent Computer Science graduate student from Illinois.</h3>
+<h3 align="center">A recent computer science graduate student from Illinois.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.maximuslewis.com](https://www.maximuslewis.com)
 
