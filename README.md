@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mlew3223@gmail.com**
 
-- 📄 Know about my experiences [https://www.maximuslewis.com/images/Resume.pdf](https://www.maximuslewis.com/images/Resume.pdf)
+- 📄 Know about my experiences [https://www.maximuslewis.com/images/Resume.pdf](https://www.maximuslewis.com/content/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
