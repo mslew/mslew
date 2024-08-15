@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Max Lewis</h1>
 <h3 align="center">A recent computer science graduate student from Illinois.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.maximuslewis.com](https://www.maximuslewis.com)
+- 👨‍💻 All of my projects are available at [https://www.maxlewis.dev](https://www.maxlewis.dev)
 
 - 📫 How to reach me **mlew3223@gmail.com**
 
-- 📄 Know about my experiences [https://www.maximuslewis.com/content/Resume.pdf](https://www.maximuslewis.com/content/Resume.pdf)
+- 📄 Know about my experiences [https://www.maxlewis.dev/content/Resume.pdf](https://www.maxlewis.dev/content/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
